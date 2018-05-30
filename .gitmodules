@@ -1,0 +1,3 @@
+[submodule "deps/hid"]
+	path = deps/hid
+	url = https://github.com/discowtmh/HID
